@@ -11,7 +11,7 @@ HISTORY_FILE = "training_history.json"
 # --- DAFTAR UMA MUSUME ---
 list_uma = [
     "Special Week", "Maruzensky", "Oguri Cap", "Gold Ship", "Vodka",
-    "Daiwa Scarlet", "Air Groove", "Mayano Top Gun", "Mejiron Ryan",
+    "Daiwa Scarlet", "Air Groove", "Mayano Top Gun", "Mejiro Ryan",
     "Agnes Tachyon", "Winning Ticket", "Sakura Bakushin O", "Super Creek",
     "Haru Urara", "Matikanefukukitaru", "Nice Nature", "King Halo",
     "Grass Wonder", "El Condor Pasa", "Seiun Sky"
